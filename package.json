@@ -1,0 +1,21 @@
+{
+  "name": "moa-angular-filter",
+  "version": "0.0.7",
+  "private": true,
+  "author": {
+    "name": "Moa Chung"
+  },
+  "homepage": "https://github.com/honomoa/moa-angular-filter/",
+  "keywords": [
+    "moa",
+    "angular",
+    "angularjs",
+    "filter"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/honomoa/moa-angular-filter.git"
+  },
+  "dependencies": {
+  }
+}
