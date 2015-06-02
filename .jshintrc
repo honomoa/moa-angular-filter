@@ -1,0 +1,12 @@
+{
+  "globals": {
+    "angular": true
+  },
+  "bitwise"  : true,
+  "undef"    : true,
+  "eqeqeq"   : true,
+  "noarg"    : true,
+  "mocha"    : true,
+  "unused"   : true,
+  "strict"   : true
+}
