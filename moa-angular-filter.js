@@ -93,6 +93,13 @@ angular.module('moa.filter', [])
     }
     return items;
   };
+})
+.filter('bitwiseAnd', function () {
+  return function (firstNumber, secondNumber) {
+    firstNumber = parseInt(firstNumber, 10);
+    secondNumber = parseInt(secondNumber, 10);
+    return ((firstNumber & secondNumber) === secondNumber);
+  };
 });
 
 })();

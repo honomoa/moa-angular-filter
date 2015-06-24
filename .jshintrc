@@ -2,7 +2,7 @@
   "globals": {
     "angular": true
   },
-  "bitwise"  : true,
+  "bitwise"  : false,
   "undef"    : true,
   "eqeqeq"   : true,
   "noarg"    : true,
